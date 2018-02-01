@@ -9,7 +9,7 @@
 * Font used is Open Sans - you will find it on Google Fonts.
 * Thumbs up / thumbs down / stars are all part of Font Awesome.
 * You don't have to use exact user pictures, you can grab random ones from e.g. https://randomuser.me/
-* Header background image - pick whatever you want from Flicker or similar.
+* Header background image - pick whatever you want from Flickr or similar.
 * It doesn't have to render on a server.
 * HTML/Component (if used) structure is totally up to you.
 * All required assets are located in assets folder ( logo + design ).
