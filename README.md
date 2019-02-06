@@ -13,7 +13,7 @@
 * It doesn't have to render on a server.
 * HTML/Component (if used) structure is totally up to you.
 * All required assets are located in assets folder ( logo + design ).
-* Page doesn't have to be responsive.
+* Page doesn't have to be responsive. Layout doesn't have to be pixel perfect.
 * It's only client side "application" (we used quotes, because it's only one page - hard to call it "application" ;)
 
 Have fun!
